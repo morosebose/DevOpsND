@@ -61,6 +61,10 @@ Aborted due to warnings.
 * Answers video alone should have the instructor note that gives away the answer!
 * README mentions running on cloud before the reading node that follows quiz; reorganize README
 
+#### Access Configuration for Cloud
+* Are instructions correct?
+* Do we want to specify one cloud provider instead of many choices?
+
 #### Outro
 * Mentions Lesson 3
 
